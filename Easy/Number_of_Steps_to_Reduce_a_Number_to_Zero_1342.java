@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/	
+
 import java.util.Scanner;
 
 public class Number_of_Steps_to_Reduce_a_Number_to_Zero_1432 {
