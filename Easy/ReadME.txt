@@ -18,4 +18,8 @@
 
 - 26		Remove duplicate from sorted array 		https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=array
 
+- 27		Remove Element					https://leetcode.com/problems/remove-element/?envType=problem-list-v2&envId=array
+
+-118		Pascal's triangle				https://leetcode.com/problems/pascals-triangle/?envType=problem-list-v2&envId=array
+
 
