@@ -22,4 +22,9 @@
 
 -118		Pascal's triangle				https://leetcode.com/problems/pascals-triangle/?envType=problem-list-v2&envId=array
 
+-1929		Concatenation of an array			https://leetcode.com/problems/concatenation-of-array/?envType=problem-list-v2&envId=array
+
+-1920		Build array from permutation			https://leetcode.com/problems/build-array-from-permutation/description/?envType=problem-list-v2&envId=array
+
+-2011		Final value of variable after operation		https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/?envType=problem-list-v2&envId=array
 
