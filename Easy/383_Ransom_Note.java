@@ -1,5 +1,10 @@
-//https://leetcode.com/problems/ransom-note/description/
-
+/**
+ * Problem: Ransom Note (#383)
+ * Link: https://leetcode.com/problems/ransom-note/
+ *
+ * Time Complexity:  O(n·m)
+ * Space Complexity: O(m)
+ */
 import java.util.ArrayList;
 
 public class Ransom_Note_383 {
@@ -20,7 +25,7 @@ public class Ransom_Note_383 {
 		    
 		    for (int i = 0; i < ransomNote.length(); i++) {
 		        char c = ransomNote.charAt(i);
-		        if (!magaz.remove((Character) c)) { // Si no se puede eliminar el carácter, no se construye la nota
+		        if (!magaz.remove((Character) c)) { // If the character cannot be removed, the note cannot be constructed
 		            return false;
 		        }
 		    }

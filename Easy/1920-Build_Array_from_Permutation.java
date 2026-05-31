@@ -1,3 +1,10 @@
+/**
+ * Problem: Build Array from Permutation (#1920)
+ * Link: https://leetcode.com/problems/build-array-from-permutation/
+ *
+ * Time Complexity:  O(n)
+ * Space Complexity: O(n)
+ */
 import java.util.Arrays;
 
 public class Build_Array_from_Permutation {

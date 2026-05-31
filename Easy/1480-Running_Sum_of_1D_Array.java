@@ -1,5 +1,10 @@
-//https://leetcode.com/problems/running-sum-of-1d-array/
-
+/**
+ * Problem: Running Sum of 1D Array (#1480)
+ * Link: https://leetcode.com/problems/running-sum-of-1d-array/
+ *
+ * Time Complexity:  O(n)
+ * Space Complexity: O(n)
+ */
 import java.util.Arrays;
 
 public class Running_Sum_of_1D_Array {
