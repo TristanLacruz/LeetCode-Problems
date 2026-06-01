@@ -7,7 +7,7 @@
 | 26 | [Remove Duplicate from Sorted Array](https://leetcode.com/problems/remove-duplicate-from-sorted-array/) | [Java](./26-Remove_Duplicate_from_Sorted_Array.java) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./27-Remove_Element.java) |
 | 118 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./118-Pascals_Triangle.java) |
-| 383_Ransom_Note | [383_Ransom_Note](#) | [Java](./383_Ransom_Note.java) |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./383-Ransom_Note.java) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./412-Fizz_Buzz.java) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](./876-Middle_of_the_Linked_List.java) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](./1342-Number_of_Steps_to_Reduce_a_Number_to_Zero.java) |
