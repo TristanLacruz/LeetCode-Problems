@@ -2,8 +2,9 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 1 | [TwoSum](https://leetcode.com/problems/twosum/) | [Java](./1-TwoSum.java) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./1-Two_Sum.java) |
 | 9 | [Palindrome number](https://leetcode.com/problems/palindrome-number/) | [Java](./9-Palindrome_number.java) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](./13-Roman_to_Integer.java) |
 | 26 | [Remove Duplicate from Sorted Array](https://leetcode.com/problems/remove-duplicate-from-sorted-array/) | [Java](./26-Remove_Duplicate_from_Sorted_Array.java) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./27-Remove_Element.java) |
 | 118 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./118-Pascals_Triangle.java) |
