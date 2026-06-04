@@ -2,7 +2,7 @@
  * Problem: Remove Duplicates from Sorted Array (#26)
  * Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  *
- * Time Complexity:  O(n)
+ * Time Complexity: O(n)
  * Space Complexity: O(1)
  */
 public class Remove_Duplicate_from_Sorted_Array_26 {

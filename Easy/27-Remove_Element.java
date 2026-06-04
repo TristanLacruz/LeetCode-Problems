@@ -2,7 +2,7 @@
  * Problem: Remove Element (#27)
  * Link: https://leetcode.com/problems/remove-element/
  *
- * Time Complexity:  O(n)
+ * Time Complexity: O(n)
  * Space Complexity: O(1)
  */
 public class Remove_Element_27 {

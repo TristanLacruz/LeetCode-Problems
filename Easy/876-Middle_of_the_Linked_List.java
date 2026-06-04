@@ -2,7 +2,7 @@
  * Problem: Middle of the Linked List (#876)
  * Link: https://leetcode.com/problems/middle-of-the-linked-list/
  *
- * Time Complexity:  O(n)
+ * Time Complexity: O(n)
  * Space Complexity: O(1)
  */
 public class Middle_of_the_Linked_List {

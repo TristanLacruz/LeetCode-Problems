@@ -2,7 +2,7 @@
  * Problem: Concatenation of Array (#1929)
  * Link: https://leetcode.com/problems/concatenation-of-array/
  *
- * Time Complexity:  O(n)
+ * Time Complexity: O(n)
  * Space Complexity: O(n)
  */
 import java.util.Arrays;

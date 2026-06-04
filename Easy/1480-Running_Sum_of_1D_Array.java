@@ -2,7 +2,7 @@
  * Problem: Running Sum of 1D Array (#1480)
  * Link: https://leetcode.com/problems/running-sum-of-1d-array/
  *
- * Time Complexity:  O(n)
+ * Time Complexity: O(n)
  * Space Complexity: O(n)
  */
 import java.util.Arrays;

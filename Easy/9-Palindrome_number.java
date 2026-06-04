@@ -2,7 +2,7 @@
  * Problem: Palindrome Number (#9)
  * Link: https://leetcode.com/problems/palindrome-number/
  *
- * Time Complexity:  O(log n)
+ * Time Complexity: O(log n)
  * Space Complexity: O(1)
  */
 class Solution {

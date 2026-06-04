@@ -2,7 +2,7 @@
  * Problem: Number of Steps to Reduce a Number to Zero (#1342)
  * Link: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
  *
- * Time Complexity:  O(log n)
+ * Time Complexity: O(log n)
  * Space Complexity: O(1)
  */
 import java.util.Scanner;

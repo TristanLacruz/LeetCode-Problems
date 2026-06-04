@@ -3,7 +3,7 @@
  * Link: https://leetcode.com/problems/add-two-numbers/
  *
  * Approach: Run both lists simultaneously, carry the flow to the next node
- * Time Complexity:  O(max(n, m))
+ * Time Complexity: O(max(n, m))
  * Space Complexity: O(max(n, m))
  */
 class Solution {

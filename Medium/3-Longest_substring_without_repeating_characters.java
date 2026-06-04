@@ -3,7 +3,7 @@
  * Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/
  *
  * Approach: Tracking last seen index of each char with a HashMap
- * Time Complexity:  O(n)
+ * Time Complexity: O(n)
  * Space Complexity: O(n)
  */
 class Solution {

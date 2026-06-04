@@ -2,7 +2,7 @@
  * Problem: Final Value of Variable After Performing Operations (#2011)
  * Link: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
  *
- * Time Complexity:  O(n)
+ * Time Complexity: O(n)
  * Space Complexity: O(1)
  */
 public class Final_value_of_Variable_after_Performing_Operations_2011 {

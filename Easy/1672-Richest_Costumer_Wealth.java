@@ -2,7 +2,7 @@
  * Problem: Richest Customer Wealth (#1672)
  * Link: https://leetcode.com/problems/richest-customer-wealth/
  *
- * Time Complexity:  O(n·m)
+ * Time Complexity: O(n·m)
  * Space Complexity: O(1)
  */
 public class Richest_Costumer_Wealth {

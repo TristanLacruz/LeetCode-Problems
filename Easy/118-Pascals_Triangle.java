@@ -2,7 +2,7 @@
  * Problem: Pascal's Triangle (#118)
  * Link: https://leetcode.com/problems/pascals-triangle/
  *
- * Time Complexity:  O(n²)
+ * Time Complexity: O(n²)
  * Space Complexity: O(n²)
  */
 package easy;

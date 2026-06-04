@@ -6,7 +6,7 @@
  * 		If the sum is equal to c, it returns true. If the sum is less than c, it moves the left pointer to the right (incrementing it).
  * 		If the sum is greater than c, it moves the right pointer to the left (decrementing it). 
  * 		The loop continues until the left pointer exceeds the right pointer.
- * Time Complexity:  O(√c)
+ * Time Complexity: O(√c)
  * Space Complexity: O(1)
  */
 public class Sum_of_Square_Numbers_633 {

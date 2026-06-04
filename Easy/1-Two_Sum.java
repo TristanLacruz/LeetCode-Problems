@@ -2,7 +2,7 @@
  * Problem: Two Sum (#1)
  * Link: https://leetcode.com/problems/two-sum/
  *
- * Time Complexity:  O(n²)
+ * Time Complexity: O(n²)
  * Space Complexity: O(1)
  */
 import java.util.Arrays;

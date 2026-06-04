@@ -2,7 +2,7 @@
  * Problem: Longest Palindromic Substring (#5)
  * Link: https://leetcode.com/problems/longest-palindromic-substring/
  *
- * Time Complexity:  O(n²)
+ * Time Complexity: O(n²)
  * Space Complexity: O(1)
  */
 class Solution {

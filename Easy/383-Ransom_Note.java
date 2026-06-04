@@ -2,7 +2,7 @@
  * Problem: Ransom Note (#383)
  * Link: https://leetcode.com/problems/ransom-note/
  *
- * Time Complexity:  O(n·m)
+ * Time Complexity: O(n·m)
  * Space Complexity: O(m)
  */
 import java.util.ArrayList;

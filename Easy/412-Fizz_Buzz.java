@@ -2,7 +2,7 @@
  * Problem: Fizz Buzz (#412)
  * Link: https://leetcode.com/problems/fizz-buzz/
  *
- * Time Complexity:  O(n)
+ * Time Complexity: O(n)
  * Space Complexity: O(n)
  */
 import java.util.ArrayList;
