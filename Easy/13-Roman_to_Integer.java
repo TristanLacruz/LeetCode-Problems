@@ -6,28 +6,19 @@
  * Space Complexity: O(1)
  */
 class Solution {
-    public int romanToInt(String s) {
-        Map<Character, Integer> dictionary = new HashMap<>();
-        dictionary.put('I', 1);
-        dictionary.put('V', 5);
-        dictionary.put('X', 10);
-        dictionary.put('L', 50);
-        dictionary.put('C', 100);
-        dictionary.put('D', 500);
-        dictionary.put('M', 1000);
+    public String intToRoman(int num) {
+        int[] numbers = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
+        String[] characters = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
 
-        int total = 0;
+        StringBuilder output = new StringBuilder();
 
-        for (int position = 0; position < s.length(); position++) {
-            int currentValue = dictionary.get(s.charAt(position));
-            int nextValue   = (position + 1 < s.length()) ? dictionary.get(s.charAt(position + 1)) : 0;
-
-            if (currentValue < nextValue)
-                total -= currentValue;
-            else
-                total += currentValue;
+        for (int index = 0; index < numbers.length; index++) {
+            while (num >= numbers[index]) {
+                output.append(characters[index]);
+                num -= numbers[index];
+            }
         }
 
-        return total;
+        return output.toString();
     }
 }

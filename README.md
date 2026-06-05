@@ -6,8 +6,8 @@ Daily solutions in Java.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 14 |
+| 🟢 Easy    | 16 |
 | 🟡 Medium  | 4 |
 | 🔴 Hard    | 0 |
 
-**Total: 18 problems solved**
+**Total: 20 problems solved**
