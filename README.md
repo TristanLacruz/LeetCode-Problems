@@ -7,7 +7,7 @@ Daily solutions in Java.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy    | 16 |
-| 🟡 Medium  | 4 |
+| 🟡 Medium  | 5 |
 | 🔴 Hard    | 0 |
 
-**Total: 20 problems solved**
+**Total: 21 problems solved**
